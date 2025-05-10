@@ -62,24 +62,5 @@ O projeto Noiton tem como objetivo a criação de um app para gerenciar tarefas 
 | 19   | Baixo     | Como usuário, quero compartilhar tarefas com outras pessoas via e-mail ou link para facilitar a colaboração. | 4  | 3 | 19 |
 
 
-<br>
-
-<span id="Sprint1">
-
-## Sprint Backlog - 1° Sprint
-
-| User Story | Task | Estimativa (h) |
-|------------|------|:--------------:|
-| Como usuário, quero criar uma conta com e-mail e senha para acessar minhas tarefas. | Frontend: Criar tela de cadastro com campos para e-mail e senha. | 1 |
-| Como usuário, quero criar uma conta com e-mail e senha para acessar minhas tarefas. | Frontend: Criar tela de login com autenticação. | 3 |
-| Como usuário, quero criar uma conta com e-mail e senha para acessar minhas tarefas. | Backend: Criar API para autenticação e cadastro de usuários. | 3 |
-| Como usuário, quero criar uma conta com e-mail e senha para acessar minhas tarefas. | Banco: Criar o banco de dados do projeto. | 3 |
-| Como usuário, quero criar tarefas com título, descrição e prazo para organizar meu trabalho. | Frontend: Criar formulário para criação de tarefas. | 1 |
-| Como usuário, quero criar tarefas com título, descrição e prazo para organizar meu trabalho. | Frontend: Criar tela para visualizar tarefas criadas. | 2 |
-| Como usuário, quero criar tarefas com título, descrição e prazo para organizar meu trabalho. | Backend: Implementar API para salvar tarefas no banco de dados. | 3 |
-| Como usuário, quero definir a prioridade das minhas tarefas para saber quais são mais importantes. | Frontend: Adicionar opção de seleção de prioridade (alta, média, baixa). | 2 |
-| Como usuário, quero definir a prioridade das minhas tarefas para saber quais são mais importantes. | Backend: Ajustar API para armazenar prioridade das tarefas. | 2 |
-
-
 
 
