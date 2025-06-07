@@ -21,16 +21,14 @@ O projeto Noiton tem como objetivo a criação de um app para gerenciar tarefas 
 | 7   | O aplicativo deve permitir que o usuário marque as tarefas como concluídas com a opção de desmarcar se necessário. |
 | 8   | O aplicativo deve enviar notificações para lembrar o usuário de tarefas pendentes, com base no horário definido. |
 | 9   | O aplicativo deve permitir que o usuário crie uma rotina semanal, com tarefas automáticas e diárias definidas para cada dia da semana. |
-| 10  | O aplicativo deve permitir que o usuário adicione notas e anexos (imagens, arquivos) às tarefas. |
+| 10  | O aplicativo deve permitir que o usuário adicione notas e anexos (arquivos em pdf) às tarefas. |
 | 11  | O aplicativo deve permitir a criação de sub-tarefas (checklist) dentro de uma tarefa principal. |
 | 12  | O aplicativo deve permitir a integração com o calendário do sistema para importar eventos e compromissos importantes. |
 | 13  | O aplicativo deve permitir ao usuário categorizar tarefas de acordo com o nível de urgência. |
 | 14  | O aplicativo deve permitir que o usuário filtre tarefas por prazo, prioridade ou categoria. |
 | 15  | O aplicativo deve ter uma interface de fácil navegação, permitindo ao usuário visualizar todas as tarefas de forma clara. |
 | 16  | O aplicativo deve ter suporte para múltiplos idiomas (Apenas Inglês). |
-| 17  | O aplicativo deve permitir que o usuário defina metas semanais ou mensais de produtividade. |
-| 18  | O aplicativo deve gerar relatórios de produtividade semanais e mensais. |
-| 19  | O aplicativo deve permitir que o usuário compartilhe tarefas com outras pessoas por meio de e-mail ou link. |
+| 17  | O aplicativo deve permitir que o usuário compartilhe tarefas com outras pessoas por meio de e-mail ou link. |
 
 
 <br>
@@ -57,9 +55,7 @@ O projeto Noiton tem como objetivo a criação de um app para gerenciar tarefas 
 | 14   | Médio     | Como usuário, quero filtrar tarefas por prazo, prioridade ou categoria para encontrar rapidamente o que preciso. | 5  | 3 | 14 |
 | 15   | Alto      | Como usuário, quero uma interface intuitiva para visualizar todas as minhas tarefas com clareza. | 10 | 3 | 15 |
 | 16   | Baixo     | Como usuário, quero ter suporte ao idioma inglês para utilizar o aplicativo em outra língua. | 3  | 3 | 16 |
-| 17   | Médio     | Como usuário, quero definir metas semanais e mensais de produtividade para acompanhar meu desempenho. | 6  | 3 | 17 |
-| 18   | Médio     | Como usuário, quero gerar relatórios semanais e mensais sobre minha produtividade para avaliar meu progresso. | 6  | 3 | 18 |
-| 19   | Baixo     | Como usuário, quero compartilhar tarefas com outras pessoas via e-mail ou link para facilitar a colaboração. | 4  | 3 | 19 |
+| 17  | Baixo     | Como usuário, quero compartilhar tarefas com outras pessoas via e-mail ou link para facilitar a colaboração. | 4  | 3 | 17 |
 
 
 
