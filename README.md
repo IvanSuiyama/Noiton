@@ -22,7 +22,7 @@ O projeto Noiton tem como objetivo a criação de um app para gerenciar tarefas 
 | 8   | O aplicativo deve enviar notificações para lembrar o usuário de tarefas pendentes, com base no horário definido. |
 | 9   | O aplicativo deve permitir que o usuário crie uma rotina semanal, com tarefas automáticas e diárias definidas para cada dia da semana. |
 | 10  | O aplicativo deve permitir que o usuário adicione notas e anexos (arquivos em pdf) às tarefas. |
-| 11  | O aplicativo deve permitir a criação de sub-tarefas (checklist) dentro de uma tarefa principal. |
+| 11  | O aplicativo deve permitir a criação de sub-tarefas dentro de uma tarefa principal. |
 | 12  | O aplicativo deve permitir a integração com o calendário do sistema para importar eventos e compromissos importantes. |
 | 13  | O aplicativo deve permitir ao usuário categorizar tarefas de acordo com o nível de urgência. |
 | 14  | O aplicativo deve permitir que o usuário filtre tarefas por prazo, prioridade ou categoria. |
